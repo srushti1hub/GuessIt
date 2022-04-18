@@ -1,0 +1,24 @@
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+
+.banner {
+    color: RGB(229, 149, 66);
+    font-size: 90px;
+    font-family: sans-serif;
+}
+
+.logo{
+    width: 45px;
+    margin: 10px;
+}
+
+.navbar-brand{
+    margin: auto;
+    font-size: 1.75rem;
+}
